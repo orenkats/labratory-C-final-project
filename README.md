@@ -1,3 +1,5 @@
+**Project Structure**
+
 The project consists of multiple C and header files, each serving a specific purpose in the program.
 
 The assembler operates through three main stages:
